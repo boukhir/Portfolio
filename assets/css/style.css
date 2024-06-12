@@ -442,6 +442,10 @@ section {
   color: #592323 !important;
 }
 
+.skill-items h3 {
+  text-align: center !important;
+}
+
 .skills .progress .skill {
   padding: 10px 0;
   margin: 0;
